@@ -1,8 +1,8 @@
 import Amadeus from 'amadeus';
 
 const amadeus = new Amadeus({
-  clientId: 'fP7w4AkhOs8ijJnCGGx5n0Gjf7EROTEr',
-  clientSecret: 'eifHBfytod2man4C',
+  clientId: '',
+  clientSecret: '',
 });
 
 // (async () => {
